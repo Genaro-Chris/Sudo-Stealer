@@ -24,7 +24,7 @@ Extract to /usr/local/go directory/folder
 ```
 Set your GOPATH 
 ```bash 
-  export GOPATH=~/Golang
+  export GOPATH=/any folder of your choice
 ```
 Add your GO bin directory to PATH 
 ```bash
@@ -79,13 +79,13 @@ Add the following line to the end of your shell configuration file.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Genaro-Chris/Sudo-Stealer/img/Screenshot-1.png/468x300?text=App+Screenshot+Here)
+![App Screenshot](./img/Screenshot-1.png/)
 
-![App Screenshot](https://github.com/Genaro-Chris/Sudo-Stealer/img/Screenshot-2.png/468x300?text=App+Screenshot+Here)
+![App Screenshot](./img/Screenshot-2.png/)
 
-![App Screenshot](https://github.com/Genaro-Chris/Sudo-Stealer/img/Screenshot-3.png/468x300?text=App+Screenshot+Here)
+![App Screenshot](./img/Screenshot-3.png/)
 
-![App Screenshot](https://github.com/Genaro-Chris/Sudo-Stealer/img/Screenshot-4.png/468x300?text=App+Screenshot+Here)
+![App Screenshot](./img/Screenshot-4.png/)
 
 
 ## Feedback
